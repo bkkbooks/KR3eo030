@@ -1,0 +1,953 @@
+canonical_identifier: bkk:krp/KR3eo030/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo030/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 福壽丹書
+  identifiers:
+    krp: KR3eo030
+  tags:
+    kr-categories: KR3eo
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo030.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo030_000-jc.yaml, hash: 'sha256:fc6ee7c27b7c0de9134f1d1eb20ff3710f177c10cc793125f6c1af0bb761632f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo030_000-jc.markers.yaml, hash: 'sha256:361f8b368df44f1d402dfd1295bf963bec7290b95113509ad4ca05a88a71f8fe'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 590
+  label: 福壽丹書序一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d3.h1s1
+    span:
+    - front
+    - 590
+    - 1209
+  label: 序二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d4.h1s1
+    span:
+    - front
+    - 1209
+    - 1559
+  label: 序三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d5.h1s1
+    span:
+    - front
+    - 1559
+    - 1921
+  label: 序四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 366
+  label: 安養篇引
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7.h1s1
+    span:
+    - body
+    - 366
+    - 14018
+  label: 新鐫五福萬壽丹書安養篇一福
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d2
+    span:
+    - body
+    - 379
+    - 1910
+  label: 居處
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d3
+    span:
+    - body
+    - 1910
+    - 4154
+  label: 飲食
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d4
+    span:
+    - body
+    - 4154
+    - 5015
+  label: 調攝
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d5
+    span:
+    - body
+    - 5015
+    - 5757
+  label: 按摩
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d6
+    span:
+    - body
+    - 5757
+    - 7470
+  label: 嗇神
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d7
+    span:
+    - body
+    - 7470
+    - 10045
+  label: 愛氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7.d7d20
+    span:
+    - body
+    - 8731
+    - 10045
+  label: 保形
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d8
+    span:
+    - body
+    - 10045
+    - 10543
+  label: 節欲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d9
+    span:
+    - body
+    - 10543
+    - 11664
+  label: 養老
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d10
+    span:
+    - body
+    - 11664
+    - 13703
+  label: 戒忌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d7d11
+    span:
+    - body
+    - 13703
+    - 14018
+  label: 延齡篇引
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8.h1s1
+    span:
+    - body
+    - 14018
+    - 27036
+  label: 新鐫五福萬壽丹書延齡篇二福
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d2
+    span:
+    - body
+    - 14031
+    - 18127
+  label: 功藥附諸仙經常功圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d3
+    span:
+    - body
+    - 18127
+    - 18265
+  label: 三樣圖器總論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d4
+    span:
+    - body
+    - 18265
+    - 18551
+  label: 神仙接命秘訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d5
+    span:
+    - body
+    - 18551
+    - 19009
+  label: 河圖數
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d6
+    span:
+    - body
+    - 19009
+    - 20747
+  label: 附調氣治諸病法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d7
+    span:
+    - body
+    - 20747
+    - 21553
+  label: 動功六字延壽訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d8
+    span:
+    - body
+    - 21553
+    - 23017
+  label: 修身秘旨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d9
+    span:
+    - body
+    - 23017
+    - 24179
+  label: 附葛仙周天火候訣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d10
+    span:
+    - body
+    - 24179
+    - 25546
+  label: 附葛仙金液還丹訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d11
+    span:
+    - body
+    - 25546
+    - 26461
+  label: 附張三丰祖師玄要篇摘錦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d12
+    span:
+    - body
+    - 26461
+    - 26682
+  label: 附穴名要覽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d8d13
+    span:
+    - body
+    - 26682
+    - 27036
+  label: 服食篇引
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d9.h1s1
+    span:
+    - body
+    - 27036
+    - 38052
+  label: 新鐫五福萬壽丹書服食篇三福
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d9d2
+    span:
+    - body
+    - 27049
+    - 37750
+  label: 服食
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d9d3
+    span:
+    - body
+    - 37750
+    - 38052
+  label: 採補篇引
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10.h1s1
+    span:
+    - body
+    - 38052
+    - 50105
+  label: 新鐫五福萬壽丹書採補篇四福
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d2
+    span:
+    - body
+    - 38065
+    - 39275
+  label: 呂祖禦敵既濟真經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d3
+    span:
+    - body
+    - 39275
+    - 43056
+  label: 呂祖採補延年秘錄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d4
+    span:
+    - body
+    - 43056
+    - 44511
+  label: 碧霞採補長生秘要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d5
+    span:
+    - body
+    - 44511
+    - 45143
+  label: 三峰採戰秘訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d6
+    span:
+    - body
+    - 45143
+    - 45440
+  label: 戒忌十段錦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d7
+    span:
+    - body
+    - 45440
+    - 45857
+  label: 素女論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d8
+    span:
+    - body
+    - 45857
+    - 45902
+  label: 投好得人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d9
+    span:
+    - body
+    - 45902
+    - 45938
+  label: 陰中八遂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d10
+    span:
+    - body
+    - 45938
+    - 46495
+  label: 交合九勢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d11
+    span:
+    - body
+    - 46495
+    - 46826
+  label: 鎖關十要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d12
+    span:
+    - body
+    - 46826
+    - 47034
+  label: 男子六錯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d13
+    span:
+    - body
+    - 47034
+    - 47162
+  label: 女子五迷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d14
+    span:
+    - body
+    - 47162
+    - 47391
+  label: 四季養性
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d15
+    span:
+    - body
+    - 47391
+    - 47555
+  label: 子午進火運火
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d16
+    span:
+    - body
+    - 47555
+    - 47661
+  label: 精妙要機
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d17
+    span:
+    - body
+    - 47661
+    - 47916
+  label: 玄關要言
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d18
+    span:
+    - body
+    - 47916
+    - 48053
+  label: 劉海蟾玉泉無泄歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d19
+    span:
+    - body
+    - 48053
+    - 48113
+  label: 秘旨鷓鴣天
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d20
+    span:
+    - body
+    - 48113
+    - 48520
+  label: 種子之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d21
+    span:
+    - body
+    - 48520
+    - 48876
+  label: 漢鍾離老祖陰陽二仙丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d22
+    span:
+    - body
+    - 48876
+    - 49832
+  label: 呂純陽卻病烏須延年仙茶方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d10d23
+    span:
+    - body
+    - 49832
+    - 50105
+  label: 玄修篇引
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d11.h1s1
+    span:
+    - body
+    - 50105
+    - 59741
+  label: 新鐫五福萬壽丹書玄修篇五福
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d11d108
+    span:
+    - body
+    - 51525
+    - 55539
+  label: 內丹三要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d11d109
+    span:
+    - body
+    - 55539
+    - 58445
+  label: 後附修丹摘要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d11d110
+    span:
+    - body
+    - 58445
+    - 59309
+  label: 太上老君築基作用
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d11d111
+    span:
+    - body
+    - 59309
+    - 59741
+  label: 清樂篇引
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12.h1s1
+    span:
+    - body
+    - 59741
+    - 72790
+  label: 新鐫五福萬壽丹書清樂篇六壽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d2
+    span:
+    - body
+    - 59754
+    - 60172
+  label: 四景調
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d3
+    span:
+    - body
+    - 60172
+    - 61974
+  label: 山舍樂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d4
+    span:
+    - body
+    - 61974
+    - 62504
+  label: 齋中詠
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d5
+    span:
+    - body
+    - 62504
+    - 62635
+  label: 花所詠
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d6
+    span:
+    - body
+    - 62635
+    - 62944
+  label: 梅花賦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d7
+    span:
+    - body
+    - 62944
+    - 63188
+  label: 修竹賦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d8
+    span:
+    - body
+    - 63188
+    - 63675
+  label: 夜讀賦
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d9
+    span:
+    - body
+    - 63675
+    - 63906
+  label: 讀書樂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d10
+    span:
+    - body
+    - 63906
+    - 65290
+  label: 警悟選
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d11
+    span:
+    - body
+    - 65290
+    - 65573
+  label: 醒世語
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d12
+    span:
+    - body
+    - 65573
+    - 65846
+  label: 醒迷歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d13
+    span:
+    - body
+    - 65846
+    - 66057
+  label: 至寶歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d14
+    span:
+    - body
+    - 66057
+    - 66749
+  label: 炎涼歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d15
+    span:
+    - body
+    - 66749
+    - 67020
+  label: 一笑歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d16
+    span:
+    - body
+    - 67020
+    - 67462
+  label: 百忍歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d17
+    span:
+    - body
+    - 67462
+    - 67588
+  label: 養心歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d18
+    span:
+    - body
+    - 67588
+    - 68115
+  label: 長恨歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d19
+    span:
+    - body
+    - 68115
+    - 68342
+  label: 誰鼓歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d20
+    span:
+    - body
+    - 68342
+    - 68902
+  label: 放生文
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d21
+    span:
+    - body
+    - 68902
+    - 69105
+  label: 勸世文
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d22
+    span:
+    - body
+    - 69105
+    - 69227
+  label: 樂志論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d23
+    span:
+    - body
+    - 69227
+    - 69489
+  label: 自樂詞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d24
+    span:
+    - body
+    - 69489
+    - 69740
+  label: 色戎箴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d25
+    span:
+    - body
+    - 69740
+    - 72037
+  label: 清語摘奇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d26
+    span:
+    - body
+    - 72037
+    - 72308
+  label: 五簋約
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d27
+    span:
+    - body
+    - 72308
+    - 72375
+  label: 率真銘
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d12d28
+    span:
+    - body
+    - 72375
+    - 72790
+  label: 讀臟腑紀事
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d13.h1s1
+    span:
+    - body
+    - 72790
+    - 84677
+  label: 新鐫萬壽丹書臟腑篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d13d2
+    span:
+    - body
+    - 72799
+    - 81010
+  label: 臟腑論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d13d3
+    span:
+    - body
+    - 81010
+    - 84052
+  label: 附常用諸藥製法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo030_jc_000-d13d4
+    span:
+    - body
+    - 84052
+    - 84677
+  label: 祝養生家五則
+  type: section
+  level: 2
+hash: sha256:6721efb443a690fc208e5202620854f70780b1f4becc40ccd04b1dffc5a6adba
