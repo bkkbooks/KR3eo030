@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo030_000.yaml, hash: 'sha256:d96e6134d6a7ea312ad353ca9c7afd9fca401edda4a6e2c4aa35d4a4d5801f90'}
+  - {seq: 0, filename: KR3eo030_000.yaml, hash: 'sha256:fc6ee7c27b7c0de9134f1d1eb20ff3710f177c10cc793125f6c1af0bb761632f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo030_000.markers.yaml, hash: 'sha256:9af98b9a35696e956b30ad042d37160ec440d2dc5b4460d98f35c28b3af83899'}
+  - {seq: 0, role: markers, filename: assets/KR3eo030_000.markers.yaml, hash: 'sha256:dfcae8254c2433f547372497752d40bfdff535a72ba5226191c9437f99d467c6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -950,7 +950,4 @@ table_of_contents:
   label: 祝養生家五則
   type: section
   level: 2
-hash: sha256:316c2f83bbab58eb71370cc58e7b4bed401bdc014c702d079b9b6c82dec0957a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aa2762d5489cd687e931dd009234d858fa32766bac82581688ad5d4726a3e21a
