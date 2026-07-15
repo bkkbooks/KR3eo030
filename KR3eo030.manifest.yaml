@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo030/v1
 canonical_location: https://kanripo.org/bkk/KR3eo030/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 福壽丹書
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo030_000.yaml, hash: 'sha256:fc6ee7c27b7c0de9134f1d1eb20ff3710f177c10cc793125f6c1af0bb761632f'}
+  - {seq: 0, filename: KR3eo030_000.yaml, hash: 'sha256:c5a6d8cebf9ab599ec57f6a14d5bea6cccd1515f332ea6fe20efb2c2e40a1aa9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo030_000.markers.yaml, hash: 'sha256:dfcae8254c2433f547372497752d40bfdff535a72ba5226191c9437f99d467c6'}
+  - {seq: 0, role: markers, filename: assets/KR3eo030_000.markers.yaml, hash: 'sha256:7657e92ca12db282323e8720183b270e71f7af1a64dfe35e110005a01c8422b2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -950,4 +950,7 @@ table_of_contents:
   label: 祝養生家五則
   type: section
   level: 2
-hash: sha256:aa2762d5489cd687e931dd009234d858fa32766bac82581688ad5d4726a3e21a
+hash: sha256:72a778fc801b4a9ae12c5d06b56ef23edc57dd060e08496110e862c708dae0fc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
