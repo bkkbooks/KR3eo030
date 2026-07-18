@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eo030_000-jc.yaml, hash: 'sha256:fc6ee7c27b7c0de9134f1d1eb20ff3710f177c10cc793125f6c1af0bb761632f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo030_000-jc.markers.yaml, hash: 'sha256:361f8b368df44f1d402dfd1295bf963bec7290b95113509ad4ca05a88a71f8fe'}
+  - {seq: 0, role: markers, filename: assets/KR3eo030_000-jc.markers.yaml, hash: 'sha256:1d6b1ab11c3dea6bbf8bc76557803393f1365ce1f06660f32264e691a1241ad9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -950,4 +950,4 @@ table_of_contents:
   label: 祝養生家五則
   type: section
   level: 2
-hash: sha256:6721efb443a690fc208e5202620854f70780b1f4becc40ccd04b1dffc5a6adba
+hash: sha256:3b61b95574dcd715120ffcf00e8b2b73bbe53fa6b5ca3062c25ac34e0b0781c1
